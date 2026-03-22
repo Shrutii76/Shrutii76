@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **React JS and creative UI animations**
 - 💬 Ask me about **JavaScript, HTML/CSS, PHP, MySQL**
-- 👩‍💻 All of my projects are available at [My Portfolio]([https://shrutikatavale.netlify.app/])
+- 👩‍💻 All of my projects are available at [My Portfolio][https://shrutikatavale.netlify.app/]
 - 📫 How to reach me: **shrutikatavale@gmail.com**
 
 ---
