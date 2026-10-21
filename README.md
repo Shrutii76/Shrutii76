@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shrutika Tavale
 
-### IT Undergraduate | FullStack Developer | Mobile App Developer
+### IT Undergraduate | React, React Native & Node.js Developer
 
 I build responsive web apps and cross-platform mobile apps, from the UI to the REST API and the database. I interned as a **Frontend App Developer at Snatcho**, where I worked on a production React Native app, and I enjoy turning designs into clean, reusable components and tracking down bugs across the UI, state, and API layers.
 
@@ -12,7 +12,7 @@ I build responsive web apps and cross-platform mobile apps, from the UI to the R
 ## 💼 Experience
 
 **Frontend App Developer Intern, Snatcho** (May 2026 – Aug 2026)  
-Built features for a React Native + TypeScript mobile app
+Built features for a React Native + TypeScript mobile app: Edit Profile and Contact Us screens, REST API integration with Axios and Bearer-token auth, Context API state, reusable components, and API debugging with Postman.
 
 ---
 
@@ -23,7 +23,21 @@ Built features for a React Native + TypeScript mobile app
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Ecosystem Matrix
+
+> Technologies I use for building and maintaining applications.
+
+| Layer | Technologies & Tooling |
+|---|---|
+| **Client** | `React.js` • `React Native` • `Expo` • `Tailwind CSS` • `HTML` • `CSS` • `EJS` |
+| **Backend & Database** | `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `REST APIs` • `Socket.IO` |
+| **Auth & Security** | `JWT` • `bcrypt` • `GitHub OAuth` • `Protected Routes` |
+| **State & Data** | `Redux` • `Zustand` • `Context API` • `Axios` |
+| **Tools & Deployment** | `Git` • `GitHub` • `VS Code` • `Postman` • `MongoDB Compass` • `Netlify` • `Render` |
+| **Languages** | `TypeScript` • `JavaScript (ES6+)` • `Java` • `Python` • `C` |
+
+<details>
+<summary>View as badges</summary>
 
 **Languages**
 
@@ -80,6 +94,21 @@ Built features for a React Native + TypeScript mobile app
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 **Concepts & practices:** Responsive Design · Reusable Components · Custom Hooks · React Hooks (useState, useEffect) · Bearer Token Authentication · Protected Routes · Input Validation · async/await · Loading & Error Handling · API Testing & Debugging
+
+</details>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutii76&layout=compact&theme=dark&hide_border=true" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shrutii76&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Shrutii76&theme=dark&hide_border=true" />
+</p>
 
 ---
 
