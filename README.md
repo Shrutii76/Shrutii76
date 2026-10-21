@@ -12,7 +12,7 @@ I build responsive web apps and cross-platform mobile apps, from the UI to the R
 ## 💼 Experience
 
 **Frontend App Developer Intern, Snatcho** (May 2026 – Aug 2026)  
-Built features for a React Native + TypeScript mobile app: Edit Profile and Contact Us screens, REST API integration with Axios and Bearer-token auth, Context API state, reusable components, and API debugging with Postman.
+Built features for a React Native + TypeScript mobile app
 
 ---
 
