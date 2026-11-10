@@ -102,11 +102,6 @@ Built features for a React Native + TypeScript mobile app
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutii76&layout=compact&theme=dark&hide_border=true" />
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shrutii76&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Shrutii76&theme=dark&hide_border=true" />
 </p>
 
